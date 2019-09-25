@@ -6,14 +6,14 @@ body {
 
 .container{
 	height: 100vh;
-	width: 100%;
+	width: 95%;
+	float: right;
 }
 
 .main{
 	height: 100%;
-	width: 95%
-	float right;
-	padding-bottom: 10rem
+	width: 100%;
+	padding-bottom: 10rem;	
 }
 
 header{
@@ -22,7 +22,7 @@ header{
 
 #logo-div{
 	float:left;
-	padding-left: 9rem;
+	padding-left: 5rem;
 	padding-top:1rem;
 	
 }
@@ -55,7 +55,7 @@ header{
 
 .content-field {
 	float: left;
-	padding-left: 10rem;
+	padding-left: 7rem;
 	padding-top: 15rem;
 }
 
